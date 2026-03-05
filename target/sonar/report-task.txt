@@ -1,0 +1,6 @@
+projectKey=timesheet-dorra-yazidi-4nids1
+serverUrl=http://localhost:9000
+serverVersion=26.3.0.120487
+dashboardUrl=http://localhost:9000/dashboard?id=timesheet-dorra-yazidi-4nids1
+ceTaskId=8f9f98fe-901f-4a83-9519-eccbc8077711
+ceTaskUrl=http://localhost:9000/api/ce/task?id=8f9f98fe-901f-4a83-9519-eccbc8077711
